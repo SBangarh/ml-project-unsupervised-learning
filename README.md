@@ -38,3 +38,4 @@ I identified outliers using code and boxplots. I explored removing the outliers,
 ## Future goals
 1. improve my understanding of the theory behind the models and how it works
 2. apply models I have learned to data that is not project related
+3. play around with feature engineering a bit more; there is more information in the data
